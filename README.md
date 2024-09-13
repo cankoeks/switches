@@ -1,7 +1,7 @@
 Switches
 ===========
 
-Browser based light switching game.
+Console based light switching game.
 
 Gameplay
 --------
@@ -134,7 +134,7 @@ The game should start choosing one of the following patterns randomly:
 ## Setup
 
 ```shell
-git clone git@github.com:YOURNAME/switches.git
+git clone git@github.com:cankoeks/switches.git
 cd switches
 gem install bundler
 ```
@@ -153,7 +153,7 @@ bundle install
 
 ## Development
 
-To start your script run:
+To start your game run:
 
 ```shell
 bin/switches
